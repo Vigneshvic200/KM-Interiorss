@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/km-interiors/static/css/main.d6155180.css",
+    "main.js": "/km-interiors/static/js/main.515d92d7.js",
+    "static/js/453.1dcfddfc.chunk.js": "/km-interiors/static/js/453.1dcfddfc.chunk.js",
+    "index.html": "/km-interiors/index.html",
+    "main.d6155180.css.map": "/km-interiors/static/css/main.d6155180.css.map",
+    "main.515d92d7.js.map": "/km-interiors/static/js/main.515d92d7.js.map",
+    "453.1dcfddfc.chunk.js.map": "/km-interiors/static/js/453.1dcfddfc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6155180.css",
+    "static/js/main.515d92d7.js"
+  ]
+}
